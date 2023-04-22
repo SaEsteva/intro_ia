@@ -9,3 +9,4 @@ jupyterlab
 tensor-sensor
 seaborn
 lightgbm
+tqdm
